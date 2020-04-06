@@ -1,0 +1,115 @@
+<!DOCTYPE gridGeometry>
+<Grid type="Cgrid" name="sim_grid">
+ <Geometry dx="500" dy="500" dz="1" ox="566000" oy="5248500" nx="70" oz="0" ny="105" nz="1"/>
+ <Properties>
+  <GsTLGridProperty filepath="properties/property__Cond_Var_SGS_Log_Cu_Reg.sgems" type="Continuous" name="Cond_Var_SGS_Log_Cu_Reg"/>
+  <GsTLGridProperty filepath="properties/property__E-type_SGS_Log_Cu_Reg.sgems" type="Continuous" name="E-type_SGS_Log_Cu_Reg"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real0.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real0"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real1.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real1"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real10.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real10"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real11.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real11"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real12.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real12"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real13.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real13"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real14.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real14"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real15.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real15"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real16.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real16"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real17.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real17"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real18.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real18"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real19.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real19"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real2.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real2"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real20.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real20"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real21.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real21"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real22.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real22"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real23.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real23"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real24.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real24"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real25.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real25"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real26.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real26"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real27.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real27"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real28.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real28"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real29.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real29"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real3.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real3"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real30.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real30"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real31.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real31"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real32.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real32"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real33.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real33"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real34.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real34"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real35.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real35"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real36.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real36"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real37.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real37"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real38.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real38"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real39.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real39"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real4.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real4"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real40.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real40"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real41.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real41"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real42.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real42"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real43.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real43"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real44.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real44"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real45.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real45"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real46.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real46"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real47.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real47"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real48.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real48"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real49.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real49"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real5.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real5"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real50.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real50"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real51.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real51"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real52.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real52"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real53.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real53"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real54.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real54"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real55.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real55"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real56.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real56"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real57.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real57"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real58.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real58"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real59.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real59"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real6.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real6"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real60.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real60"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real61.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real61"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real62.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real62"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real63.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real63"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real64.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real64"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real65.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real65"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real66.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real66"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real67.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real67"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real68.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real68"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real69.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real69"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real7.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real7"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real70.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real70"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real71.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real71"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real72.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real72"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real73.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real73"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real74.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real74"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real75.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real75"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real76.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real76"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real77.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real77"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real78.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real78"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real79.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real79"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real8.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real8"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real80.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real80"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real81.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real81"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real82.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real82"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real83.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real83"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real84.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real84"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real85.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real85"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real86.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real86"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real87.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real87"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real88.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real88"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real89.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real89"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real9.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real9"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real90.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real90"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real91.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real91"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real92.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real92"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real93.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real93"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real94.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real94"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real95.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real95"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real96.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real96"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real97.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real97"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real98.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real98"/>
+  <GsTLGridProperty filepath="properties/property__SGS_Log_Cu_Reg__real99.sgems" type="Continuous" name="SGS_Log_Cu_Reg__real99"/>
+  <GsTLGridProperty filepath="properties/property__power10(E-type_SGS_Log_Cu_Reg).sgems" type="Continuous" name="power10(E-type_SGS_Log_Cu_Reg)"/>
+ </Properties>
+ <Regions>
+  <GsTLGridRegion filepath="regions/region__Grid_from_Krig.sgems" name="Grid_from_Krig"/>
+ </Regions>
+ <PropertyGroups>
+  <GsTLGridPropertyGroup memberProperties="SGS_Log_Cu_Reg__real0;SGS_Log_Cu_Reg__real1;SGS_Log_Cu_Reg__real10;SGS_Log_Cu_Reg__real11;SGS_Log_Cu_Reg__real12;SGS_Log_Cu_Reg__real13;SGS_Log_Cu_Reg__real14;SGS_Log_Cu_Reg__real15;SGS_Log_Cu_Reg__real16;SGS_Log_Cu_Reg__real17;SGS_Log_Cu_Reg__real18;SGS_Log_Cu_Reg__real19;SGS_Log_Cu_Reg__real2;SGS_Log_Cu_Reg__real20;SGS_Log_Cu_Reg__real21;SGS_Log_Cu_Reg__real22;SGS_Log_Cu_Reg__real23;SGS_Log_Cu_Reg__real24;SGS_Log_Cu_Reg__real25;SGS_Log_Cu_Reg__real26;SGS_Log_Cu_Reg__real27;SGS_Log_Cu_Reg__real28;SGS_Log_Cu_Reg__real29;SGS_Log_Cu_Reg__real3;SGS_Log_Cu_Reg__real30;SGS_Log_Cu_Reg__real31;SGS_Log_Cu_Reg__real32;SGS_Log_Cu_Reg__real33;SGS_Log_Cu_Reg__real34;SGS_Log_Cu_Reg__real35;SGS_Log_Cu_Reg__real36;SGS_Log_Cu_Reg__real37;SGS_Log_Cu_Reg__real38;SGS_Log_Cu_Reg__real39;SGS_Log_Cu_Reg__real4;SGS_Log_Cu_Reg__real40;SGS_Log_Cu_Reg__real41;SGS_Log_Cu_Reg__real42;SGS_Log_Cu_Reg__real43;SGS_Log_Cu_Reg__real44;SGS_Log_Cu_Reg__real45;SGS_Log_Cu_Reg__real46;SGS_Log_Cu_Reg__real47;SGS_Log_Cu_Reg__real48;SGS_Log_Cu_Reg__real49;SGS_Log_Cu_Reg__real5;SGS_Log_Cu_Reg__real50;SGS_Log_Cu_Reg__real51;SGS_Log_Cu_Reg__real52;SGS_Log_Cu_Reg__real53;SGS_Log_Cu_Reg__real54;SGS_Log_Cu_Reg__real55;SGS_Log_Cu_Reg__real56;SGS_Log_Cu_Reg__real57;SGS_Log_Cu_Reg__real58;SGS_Log_Cu_Reg__real59;SGS_Log_Cu_Reg__real6;SGS_Log_Cu_Reg__real60;SGS_Log_Cu_Reg__real61;SGS_Log_Cu_Reg__real62;SGS_Log_Cu_Reg__real63;SGS_Log_Cu_Reg__real64;SGS_Log_Cu_Reg__real65;SGS_Log_Cu_Reg__real66;SGS_Log_Cu_Reg__real67;SGS_Log_Cu_Reg__real68;SGS_Log_Cu_Reg__real69;SGS_Log_Cu_Reg__real7;SGS_Log_Cu_Reg__real70;SGS_Log_Cu_Reg__real71;SGS_Log_Cu_Reg__real72;SGS_Log_Cu_Reg__real73;SGS_Log_Cu_Reg__real74;SGS_Log_Cu_Reg__real75;SGS_Log_Cu_Reg__real76;SGS_Log_Cu_Reg__real77;SGS_Log_Cu_Reg__real78;SGS_Log_Cu_Reg__real79;SGS_Log_Cu_Reg__real8;SGS_Log_Cu_Reg__real80;SGS_Log_Cu_Reg__real81;SGS_Log_Cu_Reg__real82;SGS_Log_Cu_Reg__real83;SGS_Log_Cu_Reg__real84;SGS_Log_Cu_Reg__real85;SGS_Log_Cu_Reg__real86;SGS_Log_Cu_Reg__real87;SGS_Log_Cu_Reg__real88;SGS_Log_Cu_Reg__real89;SGS_Log_Cu_Reg__real9;SGS_Log_Cu_Reg__real90;SGS_Log_Cu_Reg__real91;SGS_Log_Cu_Reg__real92;SGS_Log_Cu_Reg__real93;SGS_Log_Cu_Reg__real94;SGS_Log_Cu_Reg__real95;SGS_Log_Cu_Reg__real96;SGS_Log_Cu_Reg__real97;SGS_Log_Cu_Reg__real98;SGS_Log_Cu_Reg__real99" type="Simulation" name="SGS_Log_Cu_Reg"/>
+ </PropertyGroups>
+</Grid>
